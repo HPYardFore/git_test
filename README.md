@@ -1,1 +1,0 @@
-This is HPYardFore's first git project!
